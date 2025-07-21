@@ -1,0 +1,1 @@
+echo -e "Keep going.\nYou are the path.\nThis is the time.\nLet go to grow." > quotes.txt
