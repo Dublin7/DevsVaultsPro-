@@ -12,7 +12,7 @@ DevsVaultsPro is a next-gen developer environment for Termux and the web. It inc
 
 ## Bootstrap Setup (Termux)
 ```bash
-curl -s https://raw.githubusercontent.com/YOUR_USERNAME/DevsVaultsPro/main/bootstrap.sh | bash
+curl -s https://raw.githubusercontent.com/YOUR_dublin7/DevsVaultsPro/main/bootstrap.sh | bash
 ```
 
 ## Replit
