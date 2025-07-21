@@ -6,7 +6,7 @@ pkg install -y git curl python nodejs
 
 echo "✅ Packages installed."
 echo "📦 Cloning repo..."
-git clone https://github.com/dublin7/DevsVaultsPro ~/devsvaultspro
+git clone https://github.com/Dublin7/DevsVaultsPro ~/devsvaultspro
 
 cd ~/devsvaultspro
 echo "🚀 Ready to roll."
